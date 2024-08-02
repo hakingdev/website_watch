@@ -1,0 +1,194 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'League Spartan', sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.header {
+    background: #F8F8F8;
+    margin-bottom: 43px;
+}
+
+.header__main {
+    padding-top: 200px;
+    display: flex;
+    padding-bottom: 168px;
+}
+
+
+.header__text h1 {
+    color: #272727;
+    font-size: 250px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.header__text p {
+    color: #161515;
+    margin-bottom: 53px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 186%; /* 44.64px */
+}
+
+.header__main img {
+    position: absolute;
+    top: 100px;
+    right: 250px;
+    width: 408px;
+    height: 720px;
+}
+
+.header__description p {
+    margin-bottom: 61px;
+    color: #161515;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 155%;
+    width: 575px /* 49.6px */
+}
+
+
+.header__button {
+    border: none;
+    padding: 26px 74px;
+    background-color: #161515;
+    color: #ffff;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    cursor: pointer;
+}
+
+.header__button:hover {
+    background-color: rebeccapurple;
+}
+
+.header__price {
+    padding: 26px 74px;
+    background-color: #ffff;
+    text-decoration: none;
+    color: #272727;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 186%; /* 59.52px */
+}
+
+.main {
+
+}
+
+.main-text p{
+    text-align: center;
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 186%; /* 44.64px */
+}
+
+.main-text h2{
+    color: #000;
+    text-align: center;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 112.5%;
+    margin-bottom: 84px;/* 81px */
+}
+
+.main__background  img{
+    display: block;
+    margin: 0 auto;
+    width: 286px;
+    height: 410px;
+}
+
+.main__watch_Son22 h3{
+    text-align: center;
+    color: #000;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 17px;
+}
+
+.main__watch_Son22 p{
+    color: #161515;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 155%; /* 49.6px */
+    width: 531px;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 85px;
+    text-align: center;
+}
+
+.main__background {
+    margin: 0 auto 68px;
+    display: flex;
+    align-items: center;
+    background-color: #F8F8F8;
+    width: 417px;
+    height: 630px;
+}
+
+.main__background2 {
+    margin: 0 auto 68px;
+    display: flex;
+    align-items: center;
+    background-color: #F8F8F8;
+    width: 496px;
+    height: 630px;
+    justify-content: center;
+}
+
+.footer__text h2{
+    color: #161515;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 186%; /* 59.52px */
+    text-transform: capitalize;
+}
+
+.footer__text img{
+    display: block;
+    margin: 0 auto 49px;
+}
+
+.footer__text p{
+    color: #161515;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 170%; /* 40.8px */
+    width: 515px;
+    height: 231px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footer__text a {
+    color: #BB8B5D;
+}
+
+
+
